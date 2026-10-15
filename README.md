@@ -52,3 +52,12 @@
 ## 👩‍💻 Автор - @KCheremisina
 
 Сделано с 💜 и вниманием к каждому лепестку. © 2026
+
+
+## 📸 Скриншоты
+![alt text](image.png)  
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
